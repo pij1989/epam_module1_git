@@ -1,5 +1,5 @@
-sf line 1
-sf line 2
+sf line 1 different updated
+sf line 2 different updated
 sf line 3
 sf line 4
 sf line 5
